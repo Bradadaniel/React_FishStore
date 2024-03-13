@@ -1,0 +1,121 @@
+/*Top Nav*/
+.nav-top{
+    width: 100%;
+}
+.nav-top .elements{
+    display: flex;
+    height: 70px;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-top .elements .title a{
+    font-family: 'Edu TAS Beginner', cursive;
+    font-weight: 600;
+    font-size: 2rem;
+    color: #999;
+    text-decoration: none;
+}
+.nav-top .elements .title a span {
+    font-family: 'Edu TAS Beginner', cursive;
+    color: #444;
+}
+.nav-top .elements .number a{
+    color: #444;
+    text-decoration: none;
+    font-size: 1.1rem;
+    padding-left: 10px;
+}
+.nav-top .elements .number .icon{
+    color: #666;
+    font-size: 1.1rem;
+}
+/*Center nav*/
+.nav-center{
+    width: 100%;
+    
+}
+.nav-center .elements{
+    display: flex;
+    height: 40;
+    justify-content: space-around;
+}
+.nav-center .elements .title span{
+    font-family: 'Edu TAS Beginner', cursive;
+    color: #444;
+    font-size: 1.2rem;
+    top: -10px;
+    position: absolute;
+    top: 50px;
+}
+.nav-center .elements .cart-shop-person{
+    background: crimson;
+    padding: 5px;
+    display: flex;
+    gap: 10px;
+    color: #fff;
+}
+.nav-center .elements .cart-shop-person a{
+    text-decoration: none;
+    color: #fff;
+}
+.nav-center .elements .cart-shop-person .icon{
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+.nav-center .elements .cart-shop-person .icon:hover{
+    color: #333;
+}
+/*Bottom Nav*/
+.nav-bottom{
+    width: 100%;
+    background: #333;
+}
+.nav-bottom .links{
+    display: flex;
+    gap: 20px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;   
+}
+.nav-bottom .links a{
+    font-size: 1rem;
+    font-weight: 300;
+    color: #fff;
+    text-decoration: none;
+}
+.nav-bottom .links .menu{
+    margin-left: 10px;
+}
+.nav-bottom .links .menu .icon{
+    color: #fff;
+}
+.nav-bottom .menu{
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .nav-bottom .menu {
+        display: block;
+        position: absolute;
+        right: 10px;
+        font-size: 1.5rem;
+        transition: all 0.3s ease;
+    }
+    .nav-bottom .links a{
+        display: none;
+    }
+    .nav-bottom .dropdown-menu{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        
+    }
+    .nav-bottom .dropdown-menu a{
+        text-decoration: none;
+        color: #fff;
+        text-align: center;
+        line-height: 2;
+        font-size: 1.1rem;
+        transition: all 0.3s ease;
+    }
+}

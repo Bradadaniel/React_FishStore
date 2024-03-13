@@ -1,0 +1,9 @@
+.HeroMini{
+    position: relative;
+    margin-top: -10px;
+}
+.bl-img{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}

@@ -1,0 +1,62 @@
+.home-blog{
+    width: 100%;
+    height: auto;
+    background-color: #444;
+    margin: 2rem 0 0 0;
+}
+.home-blog .title{
+    margin-top: 1rem;
+    font-size: 2.5rem;
+    color: #fff;
+    text-align: center;
+} 
+.home-blog .home-blog-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    padding: 2rem 0;
+}
+.home-blog .home-blog-card .card-blog{
+    width: 500px;
+    margin-bottom: 2rem;
+}
+.home-blog .home-blog-card .card-img img {
+    width: 450px;
+    height: 280px;
+    object-fit: cover;
+}
+.home-blog .home-blog-card .card-blog .text .date{
+    color: crimson;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+.home-blog .home-blog-card .card-blog .text .text-title h1{
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: 400;
+    padding-bottom: 1rem;
+}
+.home-blog .home-blog-card .card-blog .text .text-title p{
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 300;
+    line-height: 1.3;
+}
+.home-blog .home-blog-card .card-blog .button a{
+    background: crimson;
+    border-radius: 0;
+    padding: 8px;
+}
+.home-blog .home-blog-card .card-blog .button a:hover{
+    background: rgb(218, 65, 95);
+    transition: .3s ease;
+}
+
+
+@media screen and (max-width:500px){
+    .home-blog .home-blog-card .card-blog .text{
+        margin:0 1rem;
+    }
+}
+    

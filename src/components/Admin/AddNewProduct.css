@@ -1,0 +1,20 @@
+.new_products{
+    text-align: center;
+    padding: 1rem 0;
+}
+.new_products h2{
+    font-size: 2rem;
+    font-weight: 500;
+    padding-bottom: 2rem;
+}
+.new_products form input{
+    margin-bottom: 1rem;
+}
+.new_products button{
+    background: crimson;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    padding: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.newsletter{
+    background: crimson;
+    height: 180px;
+    margin-bottom: 1rem;
+}
+.newsletter .title{
+    font-size: 2.5rem;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+.newsletter .input{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.newsletter .input input{
+    border: none;
+    padding: 8px
+}
+.newsletter .input a{
+    padding: 7px;
+    background: #444;
+    color: #fff;
+    text-decoration: none;
+}
+.newsletter .input a:hover{
+    background: #888;
+}

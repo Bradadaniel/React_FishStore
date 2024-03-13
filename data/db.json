@@ -1,0 +1,310 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Soft Bait 63mm FN",
+      "categories": "Soft_Bait",
+      "price": "35",
+      "text": "Ez a termek angyon jo",
+      "action": 0,
+      "img": "./img/Soft_63mm_BO.png"
+    },
+    {
+      "id": 2,
+      "name": "Soft Bait 63mm L",
+      "categories": "Soft_Bait",
+      "price": "35",
+      "text": "Ez a termek nem valami jo",
+      "action": 20,
+      "img": "./img/Soft_63mm_p.png"
+    },
+    {
+      "name": "Soft 50mm Mix",
+      "categories": "Soft_Bait",
+      "price": "20",
+      "text": "Kevert színű gumihalak",
+      "action": "0",
+      "img": "./img/Soft_50mm_Mix.png",
+      "id": 3
+    },
+    {
+      "name": "Soft Bait 63mm R",
+      "categories": "Soft_Bait",
+      "price": "35",
+      "text": "Piros jó minőségű gumihal amit kifejezetten szeretnek a különféle ragadozók. Főként a csuka vagy lassú ajzati vontatással akár süllő fogására is alkalmas.",
+      "action": "0",
+      "img": "./img/Soft_63mm_R.png",
+      "id": 4
+    },
+    {
+      "name": "Soft Bait 75mm FN",
+      "categories": "Soft_Bait",
+      "price": "50",
+      "text": "Narancs Fekete gumihal",
+      "action": "20",
+      "img": "./img/Soft_75mm_BO.png",
+      "id": 5
+    },
+    {
+      "name": "Soft Bait 75mm FF",
+      "categories": "Soft_Bait",
+      "price": "50",
+      "text": "Fekete Fehér gumihal",
+      "action": "20",
+      "img": "./img/Soft_75mm_BW.png",
+      "id": 6
+    },
+    {
+      "name": "Soft Bait 75mm ZS",
+      "categories": "Soft_Bait",
+      "price": "50",
+      "text": "Zöld Sárga gumihal",
+      "action": "20",
+      "img": "./img/Soft_75mm_GY.png",
+      "id": 7
+    },
+    {
+      "name": "Soft Bait 75mm Mix",
+      "categories": "Soft_Bait",
+      "price": "250",
+      "text": "Gumihal csomag 10féle színben, azonos nagyságban",
+      "action": "0",
+      "img": "./img/Soft_75mm_Mix.png",
+      "id": 8
+    },
+    {
+      "name": "Soft Bait 80mm ZS",
+      "categories": "Soft_Bait",
+      "price": "250",
+      "text": "Nagy kövér gumihal zöld sárga színben 5db/csomag",
+      "action": "15",
+      "img": "./img/Soft_80mm_GY.png",
+      "id": 9
+    },
+    {
+      "name": "Soft Bait 80mm F",
+      "categories": "Soft_Bait",
+      "price": "250",
+      "text": "Nagy kövér gumihal fehér színben 5db/csomag",
+      "action": "0",
+      "img": "./img/Soft_80mm_W.png",
+      "id": 10
+    },
+    {
+      "name": "Soft Bait 80mm S",
+      "categories": "Soft_Bait",
+      "price": "250",
+      "text": "Nagy kövér gumihal sárga színben 5db/csomag",
+      "action": "0",
+      "img": "./img/Soft_80mm_Y.png",
+      "id": 11
+    },
+    {
+      "name": "Soft Worm 65mm SZF",
+      "categories": "Soft_Bait",
+      "price": "50",
+      "text": "Gumiféreg szürke fehér színben",
+      "action": "0",
+      "img": "./img/Soft_Worm_65mm_GW.png",
+      "id": 12
+    },
+    {
+      "name": "Spinner 5.3g BP",
+      "categories": "Metal_Bait",
+      "price": "120",
+      "text": "Körforgó csukára és sügérre.",
+      "action": "0",
+      "img": "./img/Spinner_5.3g_BronzeR.png",
+      "id": 13
+    },
+    {
+      "name": "Spinner 5.1g Tiger",
+      "categories": "Metal_Bait",
+      "price": "110",
+      "text": "Körforgó csukára és sügérre.",
+      "action": "0",
+      "img": "./img/Spinner_5.1g_Tiger.png",
+      "id": 14
+    },
+    {
+      "name": "Spinner 7g Bee",
+      "categories": "Metal_Bait",
+      "price": "160",
+      "text": "Körforgó csukára és sügérre.",
+      "action": "0",
+      "img": "./img/Spinner_7g_4-5g_BY.png",
+      "id": 15
+    },
+    {
+      "name": "Spinner 4.5g Bee",
+      "categories": "Metal_Bait",
+      "price": "140",
+      "text": "Körforgó csukára és sügérre.",
+      "action": "0",
+      "img": "./img/Spinner_7g_4-5g_BY.png",
+      "id": 16
+    },
+    {
+      "name": "Spinner Fish 9g BR",
+      "categories": "Metal_Bait",
+      "price": "180",
+      "text": "Körforgó kishallal csukára és sügérre.",
+      "action": "0",
+      "img": "./img/Spinner_Fish_9g_BRW.png",
+      "id": 17
+    },
+    {
+      "name": "Spinner Fish 9g GY",
+      "categories": "Metal_Bait",
+      "price": "180",
+      "text": "Körforgó kishallal csukára és sügérre.",
+      "action": "0",
+      "img": "./img/Spinner_Fish_9g_GY.png",
+      "id": 18
+    },
+    {
+      "name": "Spinner Fish 9g PF",
+      "categories": "Metal_Bait",
+      "price": "180",
+      "text": "Körforgó kishallal csukára és sügérre.",
+      "action": "0",
+      "img": "./img/Spinner_Fish_9g_RB.png",
+      "id": 19
+    },
+    {
+      "name": "Spoon 5g A",
+      "categories": "Metal_Bait",
+      "price": "90",
+      "text": "Támojgó csukára arany színben.",
+      "action": "0",
+      "img": "./img/Spoon_5g_Silver_Gold.png",
+      "id": 20
+    },
+    {
+      "name": "Spoon 5g S",
+      "categories": "Metal_Bait",
+      "price": "90",
+      "text": "Támojgó csukára arany ezüst.",
+      "action": "0",
+      "img": "./img/Spoon_5g_Silver_Gold.png",
+      "id": 21
+    },
+    {
+      "name": "Spoon Oval 5g S",
+      "categories": "Metal_Bait",
+      "price": "130",
+      "text": "Támojgó csukára arany ezüst fehér tollal.",
+      "action": "15",
+      "img": "./img/Spoon_5g_Silver.png",
+      "id": 22
+    },
+    {
+      "name": "Spoon 7g Y",
+      "categories": "Metal_Bait",
+      "price": "140",
+      "text": "Támojgó csukára arany sarga fehér tollal.",
+      "action": "15",
+      "img": "./img/Spoon_7g_Y.png",
+      "id": 23
+    },
+    {
+      "name": "Spoon 10g Y",
+      "categories": "Metal_Bait",
+      "price": "150",
+      "text": "Támojgó csukára arany sarga fehér tollal.",
+      "action": "15",
+      "img": "./img/Spoon_7g_Y.png",
+      "id": 24
+    },
+    {
+      "name": "Csukázó Szajla 25cm",
+      "categories": "Tools",
+      "price": "20",
+      "text": "Fekete csukázó szajla",
+      "action": "0",
+      "img": "./img/Steel_Leader_25_Black.png",
+      "id": 25
+    },
+    {
+      "name": "Forgkarika #8",
+      "categories": "Tools",
+      "price": "5",
+      "text": "Forgókarika",
+      "action": "0",
+      "img": "./img/Swivel.png",
+      "id": 26
+    },
+    {
+      "name": "Gumigyöngy Hosszú 10db",
+      "categories": "Tools",
+      "price": "30",
+      "text": "Gumigyöngy hosszúkás",
+      "action": "0",
+      "img": "./img/Blac_Rubber_Long_Lx10.png",
+      "id": 27
+    },
+    {
+      "name": "Gumigyöngy 6db L",
+      "categories": "Tools",
+      "price": "20",
+      "text": "Gumigyöngy hosszúkás",
+      "action": "0",
+      "img": "./img/Black_Rubber_Long_L.png",
+      "id": 28
+    },
+    {
+      "name": "Pontyozó Hirisi #6/db",
+      "categories": "Hook",
+      "price": "20",
+      "text": "Pontyozó Hirisi horog 6os méretben",
+      "action": "0",
+      "img": "./img/Carp_Hook_Hirisi_6.png",
+      "id": 29
+    },
+    {
+      "name": "Pontyozó PTFE#6/db",
+      "categories": "Hook",
+      "price": "20",
+      "text": "Pontyozó PTFE horog 6os méretben",
+      "action": "0",
+      "img": "./img/Carp_Hook_62.png",
+      "id": 30
+    },
+    {
+      "name": "Pontyozó #6/db",
+      "categories": "Hook",
+      "price": "20",
+      "text": "Pontyozó hajlított 6os méretben",
+      "action": "0",
+      "img": "./img/Carp_Hook_6.png",
+      "id": 31
+    },
+    {
+      "name": "Süllőző #2/0 /db",
+      "categories": "Hook",
+      "price": "20",
+      "text": "Süllőző horok 2/0 méretben",
+      "action": "0",
+      "img": "./img/Hook_2_0.png",
+      "id": 32
+    },
+    {
+      "name": "Hármas horog #4 /db",
+      "categories": "Hook",
+      "price": "30",
+      "text": "Hármas horog jó minőségben.",
+      "action": "0",
+      "img": "./img/Hook_Trible1.png",
+      "id": 33
+    },
+    {
+      "name": "asd",
+      "categories": "asd",
+      "price": "23",
+      "text": "asd",
+      "action": "15",
+      "img": "asd",
+      "id": 34
+    }
+  ]
+}

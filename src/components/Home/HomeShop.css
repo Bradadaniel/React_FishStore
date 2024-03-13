@@ -1,0 +1,15 @@
+.conatiner{
+    padding: 3rem 0;
+}
+.conatiner h1{
+    text-align: center;
+    font-size: 2rem;
+    padding-bottom: 2rem;
+    font-weight: 500;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}

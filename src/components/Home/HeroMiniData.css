@@ -1,0 +1,26 @@
+.slide-content {
+    position: relative;
+  }
+  
+  .caption {
+    position: absolute;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+    color: #fff;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  .caption p {
+    margin: 0;
+    line-height: 1.8;
+  }
+  .caption a{
+    background: crimson;
+    color: #fff;
+    padding: 3px;
+    border-radius: 5px;
+    text-decoration: none;
+  }

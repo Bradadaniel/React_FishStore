@@ -1,0 +1,75 @@
+.card{
+    width: 300px;
+    padding: 20px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: #fff;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+}
+.card:hover{
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+.card .card-img img{
+    width: 280px;
+    height: 200px;
+    object-fit: contain;
+}
+.card .slogan{
+    font-family: 'Edu TAS Beginner', cursive;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5px;
+    font-size: 1.2rem;
+    color: #999;
+    z-index: 999;
+}
+.slogan span{
+    font-family: 'Edu TAS Beginner', cursive;
+    color: #444;
+}
+.line{
+    border: 1px solid #444;
+}
+.product-title{
+    font-size: 1.2rem;
+    text-align: start;
+    font-weight: 350;
+}
+.product-price{
+    display: flex;
+    gap: 10px;
+}
+.product-price .old-price{
+    color: #666;
+}
+.product-price .new-price{
+    color: #333;
+}
+.product-price .concession{
+    background: crimson;
+    color: #fff;
+    border-radius: 4px;
+}
+.button{
+    display: flex;
+    padding-top: 1rem;
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+.button a{
+    text-decoration: none;
+    color: #fff;
+    background: #444;
+    padding: 5px;
+    border-radius: 5px;
+}
+.button a:hover{
+    background: #999;
+}
